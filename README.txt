@@ -43,7 +43,7 @@ _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdow
 | Web1-DVWA     | Webserver   | 10.0.0.7    | Linux            |
 | Web2-DVWA     | Webserver   | 10.0.0.8    | Linux            |
 | ELK-Server    |ELK Server   | 10.2.0.5    | Linux            |
-| Load Balancer |Load Balancer| 52.186.149.216| Linux          |
+| Load Balancer |Load Balancer| 52.142.57.13| Linux            |
 ​
 ### Access Policies
 ​
