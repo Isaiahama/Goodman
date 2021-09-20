@@ -54,7 +54,7 @@ Workstation 13.89.51.194 through TCP on port 5601.
 ​
 Machines within the network can only be accessed by workstation and the jumpbox.
 - Which machine did you allow to access your ELK VM? What was its IP address?
-  I used Jump-Box-Provisioner IP 20.102.84.195 SSH port 22 to access my ELK VM and its IP address is 13.89.51.194 
+  I used Jump-Box-Provisioner IP 52.186.149.216 SSH port 22 to access my ELK VM and its IP address is 40.83.40.50 
 ​
 A summary of the access policies in place can be found in the table below.
 ​
