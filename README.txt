@@ -50,7 +50,7 @@ _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdow
 The machines on the internal network are not exposed to the public Internet. 
 ​
 Only the ELK Server machine can accept connections from the Internet. Access to this machine is only allowed from the following IP addresses:
-Workstation 13.89.51.194 through TCP on port 5601.
+Workstation 40.83.40.50 through TCP on port 5601.
 ​
 Machines within the network can only be accessed by workstation and the jumpbox.
 - Which machine did you allow to access your ELK VM? What was its IP address?
